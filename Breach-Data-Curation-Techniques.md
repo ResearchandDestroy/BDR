@@ -31,4 +31,4 @@ While we're offline on our now secure airgapped system, preferably in a safe env
 ### CONCLUSION: The end is only the beginning. 💀
 This is the part where you rinse and repeat this practice until it becomes your new norm when performing any potentially shady research. If while reading this, you've thought of several methods or techniques you could do that wasn't mentioned above, you're likely very correct and should do those things. We likely didn't mention them for a reason, but if you already practice good operational security (OpSec), then most of this should sound very familiar. If not... well then we hope you learned something. 📚 Stay safe out there, and...
 
-# HACK THE PLANET!
+# HACK THE PLANET! 💻🖧🌍
