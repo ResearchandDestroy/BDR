@@ -7,7 +7,7 @@
     - "How I Found Your Password, and Other Advanced Data Hoarding Techiques"
 * ### [Breach-Data-Curation-Techniques.md](https://github.com/ResearchandDestroy/BDR/blob/main/Breach-Data-Curation-Techniques.md)
     - Guidance on storing sensitive information both at rest and during transport.
-* ### [OSINT_Techniques.md](https://github.com/ResearchandDestroy/BDR/blob/main/OSINT-Techniques.md)
+* ### [OSINT-Techniques.md](https://github.com/ResearchandDestroy/BDR/blob/main/OSINT-Techniques.md)
     - Cool dorks and different query combinations to retrieve granular search results. 
 * ### [README.md](https://github.com/ResearchandDestroy/BDR/blob/main/README.md)
     - You're looking at it 😉
